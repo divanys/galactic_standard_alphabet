@@ -188,4 +188,4 @@ alphabet_of_galactic = np.array([
                        ]
 ])
 
-print(*alphabet_of_galactic, sep='\n')
+print(alphabet_of_galactic)
