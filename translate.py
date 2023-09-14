@@ -8,5 +8,6 @@ galactic_array = []
 for c in cleaned_str:
     galactic_array.append(galactic_alph.alphabet_of_galactic[galactic_alph.alphabet_en.index(c)])
 
-# print(len(galactic_array))
+# print(galactic_array)
 to_pictures.to_pictures(galactic_array)
+
